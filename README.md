@@ -41,7 +41,7 @@
     src="./ImagensPrint/ImagemContatos.png">
 
 <div align="center">
-<h3>Fique a vontade para acessar o projeto e ver todas suas funcionalidades. Para executar esse projeto:</h3>
+<h3>Fique à vontade para acessar o projeto e ver todas suas funcionalidades. Para executar esse projeto: </h3>
   
  <h5>:heavy_check_mark: Utilize o comando: <i>git clone</i> no terminal para clonar o repositório</h5>
  <h5>:heavy_check_mark: Vá até a pasta, caso a pasta esteja zipada, não se esqueça de extrair-lo</h5>
@@ -50,11 +50,21 @@
 </div>
 
 <div>
-  <h2>Obrigada pela visita, caso queira para sugestões de melhorias,fique a vontade. Vou deixar meu contato logo abaixo</h2>
+  <h2>Obrigada pela visita, estou à disposição para receber sugestões de melhorias, ou para nos conectarmos. </h2>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/jamile-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jamile.moreira2310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
+ <div>
+   <h2>Autora</h2>
+   <img alt="print da tela do projeto exemplificando como é o prejeto" height="300" width=
+"500"
+  src="./ImagensPrint/ImagemPortifolio.png">
+   <p><i>Jamile Moreira</i> - Dev em formação</p>
+
+
  </div>
 </div>
 
