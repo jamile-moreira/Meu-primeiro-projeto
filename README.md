@@ -5,7 +5,7 @@
 
 <div align="center">
 <p>
-  Esse foi o primeiro projeto que realizei. Onde a proposta era criar um portifólio fictício seguindo um modelo prévio no figma. Esse projeto foi desenvolvido para formalizar a finalização do módulo de FrontEnd no curso de Desenvolvimento Web. Foi um projeto realizado de modo autonomo com prazo estipulado. 
+  Esse foi o primeiro projeto que realizei. Onde a proposta era criar um portfólio fictício seguindo um modelo prévio no figma. Esse projeto foi desenvolvido para formalizar a finalização do módulo de Front End no curso de Desenvolvimento Web. Foi um projeto realizado de modo autônomo com prazo estipulado.
 </p>
 </div>
 
@@ -18,14 +18,14 @@
 
 <div align="center">
   <h3>Neste projeto:</h3>
-  <p>Nesse projeto foram utilizadas tiversas tags html, estilizações, recursos, entre outros. Para exemplicar o resultado, aqui tem algumas imagens que mostram o resultado obtido: </p>
+  <p>Nesse projeto foram utilizadas diversas tags, estilizações, recursos, entre outros. Para exemplificar o resultado, aqui tem algumas imagens que mostram o resultado obtido: </p>
 
-  <h5>	:yellow_circle: Nessa imagem é possível ver o uso de alguns recursos como Flexbox, criacão de cabeçalho e menu superior</h5>
+  <h5>	:yellow_circle: Nessa imagem é possível ver o uso de alguns recursos como Flexbox, criação de cabeçalho e menu superior</h5>
   <img alt="print da tela do projeto exemplificando como é o prejeto" height="300" width=
 "500"
   src="./ImagensPrint/ImagemPortifolio.png">
 
-  <h5>	:yellow_circle: Aqui dá para vizualizar o uso de Flexbox e o uso da tag href para interção entre páginas</h5>
+  <h5>	:yellow_circle: Aqui dá para visualizar o uso de Flexbox e o uso da tag href para interação entre páginas</h5>
 <img alt="print da tela do projeto exemplificando como é o prejeto" height="300" width=
 "500"
     src="./ImagensPrint/ImagemProjetos.png">
