@@ -60,9 +60,9 @@
 
  <div>
    <h2>Autora</h2>
-   <img alt="print da tela do projeto exemplificando como é o prejeto" height="300" width=
-"500"
-  src="./ImagensPrint/ImagemPortifolio.png">
+   <img alt="print da tela do projeto exemplificando como é o prejeto" height="80" width=
+"60"
+  src="./ImagensPrint/IMG_2262.png">
    <p><i>Jamile Moreira</i> - Dev em formação</p>
 
 
